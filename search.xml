@@ -4,12 +4,56 @@
   
     
     <entry>
+      <title>小记</title>
+      <link href="/post/9388880a7126/"/>
+      <url>/post/9388880a7126/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活小记 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于博客建立的一些事</title>
+      <link href="/post/5fa921aa5ca3/"/>
+      <url>/post/5fa921aa5ca3/</url>
+      
+        <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>这是个博客网站，并且格外清静。没有主题，没有文章。只有我的胡思乱想，和记录。来到这里，代表我们有一定的缘分。这是我第一个自己做的个人项目，有什么不足和缺点欢迎指出。欢迎来到我的部落阁。</p><img decoding="async" src="../images/关于博客建立的一些事/ACG.webp" width="70%" height="70%">]]></content>
+      
+      
+      <categories>
+          
+          <category> 站内事件 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
-      <link href="/2022/11/26/hello-world/"/>
-      <url>/2022/11/26/hello-world/</url>
+      <link href="/post/4b467adb38bb/"/>
+      <url>/post/4b467adb38bb/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p>​        这是一篇测试文章，同时记录着部落阁的起点，纪念部落阁的建立和开始。</p><img decoding="async" src="../images/hello-world/illust_92238198_20221030_124806.webp" width="70%" height="70%">]]></content>
       
+      
+      <categories>
+          
+          <category> 站内事件 </category>
+          
+      </categories>
       
       
     </entry>
